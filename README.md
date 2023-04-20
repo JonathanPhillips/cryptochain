@@ -1,1 +1,3 @@
-# cryptochain
+# cryptochain  
+This is a full stack blockchain project.
+Stay tuned...
